@@ -37,7 +37,13 @@ A telecom company is experiencing customer churn and wants to:
 
 ## 📁 Project Structure
 
-
+|File	|Description|
+|-----|-----------|
+|`telco_churn_prediction.ipynb`	|Full analysis & modeling notebook|
+|`telco_churn.csv`|	Customers dataset|
+|`requirements.txt`	|Python dependencies|
+|`app.py`|   GUI|
+|`images`	 |visualization|
 
 ---
 
@@ -79,13 +85,13 @@ jupyter notebook
 |`Optimal Clusters`|3 (KMeans)|
 
 ## 📸 Screenshots
-![imeges/business-recommendations.png](imeges/business-recommendations.png)
-![imeges/classification.png](imeges/classification.png)
 ![imeges/eda&preprocessing.png](imeges/eda&preprocessing.png)
 ![imeges/regression.png](imeges/regression.png)
+![imeges/classification.png](imeges/classification.png)
 ![imeges/segmentation.png](imeges/segmentation.png)
 ![imeges/segmentation2.png](imeges/segmentation2.png)
 ![imeges/segmentation3.png](imeges/segmentation3.png)
+![imeges/business-recommendations.png](imeges/business-recommendations.png)
 
 ## 📊 Project Status
 
