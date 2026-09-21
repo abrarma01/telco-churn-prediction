@@ -70,7 +70,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 conda create -n customer-intelligence python=3.9
 conda activate customer-intelligence
 ```
-2. **Install dependencies:**
+3. **Install dependencies:**
 ```
 jupyter notebook
 ```
@@ -95,4 +95,4 @@ jupyter notebook
 
 ## 📊 Project Status
 
-✅ Completed - All 5 phases implemented and tested
+✅ Completed - All phases implemented and tested
