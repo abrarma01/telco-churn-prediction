@@ -1,5 +1,5 @@
 # telco-churn-prediction
-Predicting telecom customer churn by comparing multiple ML models
+Predicting telecom customer churn by comparing multiple ML modelsز
 
 
 ## 🌟 Overview
