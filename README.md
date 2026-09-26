@@ -6,9 +6,9 @@ Predicting telecom customer churn by comparing multiple ML modelsز
 
 This project demonstrates a complete machine learning workflow for customer intelligence in the telecom industry. It addresses three critical business questions:
 
-1. **Which customers are likely to leave?** (Classification)
-2. **What drives their long-term value?** (Regression)
-3. **Which natural customer segments exist?** (Unsupervised Learning)
+1. **Which customers are likely to leave?** (Classification).
+2. **What drives their long-term value?** (Regression).
+3. **Which natural customer segments exist?** (Unsupervised Learning).
 
 The project includes an **interactive Streamlit dashboard** that allows stakeholders to explore results and make data-driven decisions.
 
