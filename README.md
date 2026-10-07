@@ -17,9 +17,9 @@ The project includes an **interactive Streamlit dashboard** that allows stakehol
 ## 💼 Business Problem
 
 A telecom company is experiencing customer churn and wants to:
-- **Reduce churn rate** by identifying at-risk customers
-- **Increase customer lifetime value (CLTV)** through targeted strategies
-- **Segment customers** for personalized marketing and retention campaigns
+- **Reduce churn rate** by identifying at-risk customers.
+- **Increase customer lifetime value (CLTV)** through targeted strategies.
+- **Segment customers** for personalized marketing and retention campaigns.
 
 ---
 
