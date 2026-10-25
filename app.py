@@ -196,4 +196,4 @@ with tab5:
             if contract == "Month-to-month" and tenure < 12:
                 st.error("High Churn Risk Detected! Recommend immediate retention offer.")
             else:
-                st.success("Low Churn Risk. Customer is stable.")
+             
