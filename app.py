@@ -183,17 +183,3 @@ with tab5:
        Use the Regression model to identify customers with high predicted CLTV but low current spend. Offer them personalized bundle upgrades (e.g., Streaming + Online Security).
     """)
     
-    st.subheader("Predict New Customer")
-    with st.form("prediction_form"):
-        tenure = st.slider("Tenure (Months)", 0, 72, 12)
-        monthly_charges = st.slider("Monthly Charges ($)", 18.0, 118.0, 70.0)
-        contract = st.selectbox("Contract Type", ["Month-to-month", "One year", "Two year"])
-        
-        submitted = st.form_submit_button("Predict Churn Risk")
-        
-        if submitted:
-            st.warning("Note: This is a simplified UI demo. In production, this would pass data through the trained Gradient Boosting pipeline.")
-            if contract == "Month-to-month" and tenure < 12:
-                st.error("High Churn Risk Detected! Recommend immediate retention offer.")
-            else:
-                st.success("Low Churn Risk. Customer is stable.")
