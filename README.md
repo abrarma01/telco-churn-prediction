@@ -27,11 +27,11 @@ A telecom company is experiencing customer churn and wants to:
 
 **Source:** [Telco Customer Churn - IBM Dataset](https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset)
 
-- **Size:** 7,043 rows × 33 columns
-- **Features:** Demographics, account details, services, billing, geographic data
+- **Size:** 7,043 rows × 33 columns.
+- **Features:** Demographics, account details, services, billing, geographic data.
 - **Target Variables:**
-  - **Regression:** CLTV (Customer Lifetime Value)
-  - **Classification:** Churn Label (Yes/No)
+  - **Regression:** CLTV (Customer Lifetime Value).
+  - **Classification:** Churn Label (Yes/No).
 
 ---
 
@@ -60,7 +60,7 @@ A telecom company is experiencing customer churn and wants to:
 git clone https://github.com/yourusername/Customer-Intelligence-Project.git
 cd Customer-Intelligence-Project
 ```
-2. **Create virtual environment (recommended):**
+2. **Create a virtual environment (recommended):**
 ```
 # Using venv
 python -m venv venv
